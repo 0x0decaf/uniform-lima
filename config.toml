@@ -19,6 +19,7 @@ highlight_theme = "kronuz"
 
 [extra]
 # Put all your custom variables herE
+# hyde_reverse = "true"
 hyde_links = [
     {url = "/archived/", name = "Archives"},
 ]
