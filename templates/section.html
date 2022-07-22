@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1 class="post-title">{{ section.title }}</h1>
+{% endblock content %}
+
+{% for page in section.titile.pages %}
+    {{ page.title }}
+{% endfor %}
