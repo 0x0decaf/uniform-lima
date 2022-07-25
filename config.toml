@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://uniform-lima.pages.dev/"
 title = "Uniform Lima"
-description = "Thoughts, Growth and Philosophy!"
+description = "Chock-Full of stupid questions"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
