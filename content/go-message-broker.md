@@ -1,11 +1,12 @@
 +++
 title = "Writing a message broker in Go"
 description = "Exploring the internals of how message brokers work and my thoughts on 'Grokking streaming' book."
-draft = false
-date = "2022-07-14"
+draft = true
+date = "2022-07-22"
 template = "page.html"
 menu = "sandesh"
 +++
+> This post is a **draft** and has not been completed yet. 
 > This post is a first of a part of series. For all posts in this series, check the [index](https://example.org) page.
 
 ## Introduction: 
