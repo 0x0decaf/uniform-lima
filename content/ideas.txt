@@ -1,0 +1,3 @@
+1. Nagle's algorithm and sending and receiving data over TCP buffers. (RUST)
+2. Class, object variables and functions (PYTHON)
+3. Writing a FLASK - WSGI internals
