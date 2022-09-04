@@ -1,7 +1,7 @@
 +++
 title = "Writing a message broker in Go"
 description = "Exploring the internals of how message brokers work and my thoughts on 'Grokking streaming' book."
-draft = true
+draft = true 
 date = "2022-07-22"
 template = "page.html"
 menu = "sandesh"
